@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/book_logo/amazon.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/amazon.jpg</NavigateUrl>
+    <AlternateText>
+      Amazon
+    </AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/bookcompany.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/bookcompany.jpg</NavigateUrl>
+    <AlternateText>Book Company</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/booksandcompany.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/booksandcompany.jpg</NavigateUrl>
+    <AlternateText>Book and Company</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/gbc.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/gbc.jpg</NavigateUrl>
+    <AlternateText>gbc</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/goodbooks.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/goodbooks.jpg</NavigateUrl>
+    <AlternateText>goodbooks</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/goodreads.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/goodreads.jpg</NavigateUrl>
+    <AlternateText>goodreader</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/memorybook.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/memorybook.jpg</NavigateUrl>
+    <AlternateText>memorybook</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/seattlecompany.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/seattlecompany.jpg</NavigateUrl>
+    <AlternateText>seattlecompany</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/storyline.png</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/storyline.png</NavigateUrl>
+    <AlternateText>storyline</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/book_logo/study program.PNG</ImageUrl>
+    <NavigateUrl>http://localhost:50172/Images/book_logo/study program.PNG</NavigateUrl>
+    <AlternateText>studyprogram</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>book</Keyword>
+  </Ad>
+</Advertisements>
